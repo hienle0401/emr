@@ -1,0 +1,101 @@
+pid,name,dob,gender,medical_condition,insurance
+1,James Smith,1985-05-12,Male,Plaque Psoriasis,Blue Shield
+2,Maria Garcia,1992-11-03,Female,Atopic Dermatitis,Aetna
+3,Robert Johnson,1978-02-28,Male,Basal Cell Carcinoma,UnitedHealthcare
+4,Linda Williams,1965-08-15,Female,Seborrheic Keratosis,Medicare
+5,Michael Brown,2001-12-10,Male,Cystic Acne,Kaiser Permanente
+6,Elizabeth Miller,1990-04-22,Female,Contact Dermatitis,Cigna
+7,David Davis,1954-01-30,Male,Actinic Keratosis,Humana
+8,Jennifer Wilson,1988-09-14,Female,Melasma,Anthem
+9,William Taylor,2010-06-05,Male,Molluscum Contagiosum,Medicaid
+10,Barbara Anderson,1947-03-18,Female,Bullous Pemphigoid,Medicare
+11,Richard Thomas,1973-07-25,Male,Rosacea,Blue Shield
+12,Susan Jackson,1995-10-12,Female,Vitiligo,Aetna
+13,Joseph White,1982-12-01,Male,Hidradenitis Suppurativa,UnitedHealthcare
+14,Margaret Harris,1961-05-09,Female,Lichen Planus,Kaiser Permanente
+15,Charles Martin,2005-02-14,Male,Tinea Corporis,Cigna
+16,Dorothy Thompson,1939-11-20,Female,Stasis Dermatitis,Humana
+17,Christopher Garcia,1980-04-04,Male,Dysidrotic Eczema,Anthem
+18,Patricia Martinez,1971-08-31,Female,Urticaria (Hives),Blue Shield
+19,Matthew Robinson,1998-01-19,Male,Keloid Scarring,Aetna
+20,Jessica Clark,1984-06-27,Female,Perioral Dermatitis,UnitedHealthcare
+21,Daniel Rodriguez,1968-03-11,Male,Squamous Cell Carcinoma,Kaiser Permanente
+22,Nancy Lewis,1959-09-07,Female,Pruritus,Medicare
+23,Donald Lee,1993-12-25,Male,Folliculitis,Cigna
+24,Karen Walker,1981-02-02,Female,Granuloma Annulare,Anthem
+25,George Hall,1942-07-16,Male,Xerosis,Medicare
+26,Betty Allen,1976-10-30,Female,Pityriasis Rosea,Blue Shield
+27,Kenneth Young,2008-05-21,Male,Verruca Vulgaris,Aetna
+28,Helen Hernandez,1987-11-13,Female,Alopecia Areata,UnitedHealthcare
+29,Steven King,1963-04-08,Male,Ichthyosis Vulgaris,Kaiser Permanente
+30,Sandra Wright,1991-08-01,Female,Impetigo,Cigna
+31,Edward Lopez,1950-06-19,Male,Herpes Zoster (Shingles),Humana
+32,Donna Hill,1979-03-24,Female,Scabies,Anthem
+33,Brian Scott,1983-09-02,Male,Telangiectasia,Blue Shield
+34,Carol Green,1955-12-11,Female,Dermatomyositis,Medicare
+35,Ronald Adams,1996-01-05,Male,Scoliosis (Skin Check),Aetna
+36,Michelle Baker,1989-07-29,Female,Chronic Fatigue (Rash),UnitedHealthcare
+37,Anthony Gonzalez,1974-05-14,Male,Kidney Stones (Calcinosis),Kaiser Permanente
+38,Laura Nelson,1967-11-08,Female,Menopause (Hot Flashes),Cigna
+39,Kevin Carter,2003-02-27,Male,Acne Vulgaris,Anthem
+40,Sarah Mitchell,1994-10-17,Female,Bipolar (Drug Rash),Blue Shield
+41,Jason Perez,1986-04-12,Male,Fatty Liver (Acanthosis),Aetna
+42,Deborah Roberts,1945-09-22,Female,Osteoporosis (Thin Skin),Medicare
+43,Jeff Turner,1977-01-03,Male,Tinnitus (Otitis Externa),UnitedHealthcare
+44,Amy Phillips,1982-06-15,Female,Lupus (Malar Rash),Kaiser Permanente
+45,Frank Campbell,1960-08-19,Male,Emphysema (Cyanosis),Humana
+46,Rebecca Parker,1999-03-10,Female,Anorexia (Lanugo),Cigna
+47,Gary Evans,1958-12-05,Male,Prostatitis (Intertrigo),Anthem
+48,Sharon Edwards,1972-02-20,Female,Fibromyalgia (Pruritus),Blue Shield
+49,Ryan Collins,2012-07-11,Male,Tonsillitis (Scarlet Fever),Aetna
+50,Kathleen Stewart,1985-05-30,Female,Vertigo (Herpes Zoster),UnitedHealthcare
+51,Justin Sanchez,1991-09-14,Male,Malaria (Petechiae),Kaiser Permanente
+52,Stephanie Morris,1970-11-02,Female,Graves' Disease (Pretibial Myxedema),Cigna
+53,Brandon Rogers,1988-01-26,Male,Sinusitis (Angioedema),Anthem
+54,Judith Reed,1952-04-17,Female,Parkinson's (Seborrheic Derm),Humana
+55,Gregory Cook,1964-12-09,Male,Cirrhosis (Jaundice),Medicare
+56,Shirley Morgan,1975-08-23,Female,Alopecia,Blue Shield
+57,Samuel Bell,1997-06-14,Male,Mononucleosis (Exanthem),Aetna
+58,Cheryl Murphy,1969-10-05,Female,Gallstones (Pruritus),UnitedHealthcare
+59,Benjamin Bailey,2006-03-29,Male,Otitis Media (Eczema),Kaiser Permanente
+60,Alice Rivera,1941-02-11,Female,Macular Degeneration (Xanthoma),Medicare
+61,Patrick Cooper,1983-11-18,Male,Pleurisy (Dermatitis),Cigna
+62,Teresa Richardson,1978-07-07,Female,Celiac Disease (Dermatitis Herpetiformis),Anthem
+63,Jack Cox,1957-05-25,Male,Hernia (Intertrigo),Humana
+64,Doris Howard,1962-09-13,Female,Lyme Disease (Erythema Migrans),Blue Shield
+65,Dennis Ward,1990-12-04,Male,Herniated Disc (Numbness),Aetna
+66,Diane Peterson,1984-01-21,Female,Raynaud's Disease,UnitedHealthcare
+67,Jerry Gray,1948-06-30,Male,Alzheimer's (Pressure Ulcer),Medicare
+68,Janet James,1973-03-15,Female,Sarcoidosis (Lupus Pernio),Kaiser Permanente
+69,Alexander Ross,1994-04-20,Male,Syringoma,Anthem
+70,Megan Moore,1981-11-11,Female,Xanthelasma,Cigna
+71,Douglas Gray,1953-07-04,Male,Neurofibromatosis Type 1,Medicare
+72,Olivia Price,1999-02-14,Female,Nevus of Ota,UnitedHealthcare
+73,Peter Bennett,1966-10-31,Male,Favre-Racouchot Syndrome,Humana
+74,Samantha Wood,1987-03-09,Female,Erythema Multiforme,Blue Shield
+75,Arthur Barnes,1944-08-12,Male,Chondrodermatitis Nodularis,Medicare
+76,Madison Ross,2002-05-25,Female,Trichotillomania,Aetna
+77,Wayne Foster,1971-12-01,Male,Hidrocystoma,Cigna
+78,Victoria Henderson,1993-06-18,Female,Keratoacanthoma,Anthem
+79,Billy Coleman,1958-01-07,Male,Lichen Sclerosus,Humana
+80,Katherine Jenkins,1986-09-29,Female,Pompholyx,UnitedHealthcare
+81,Randy Perry,1962-04-14,Male,Actinic Cheilitis,Blue Shield
+82,Nicole Powell,1991-03-22,Female,Nevus Flammeus,Kaiser Permanente
+83,Eugene Long,1951-11-05,Male,Cutaneous Horn,Medicare
+84,Diana Patterson,1979-07-13,Female,Panniculitis,Aetna
+85,Louis Hughes,1984-12-30,Male,Eruptive Xanthoma,Cigna
+86,Lori Flores,1968-02-17,Female,Pseudofolliculitis Barbae,Anthem
+87,Russell Washington,1955-08-27,Male,Calciphylaxis,Humana
+88,Theresa Butler,1990-10-02,Female,Papular Urticaria,Blue Shield
+89,Philip Simmons,1974-05-06,Male,Majocchi’s Granuloma,UnitedHealthcare
+90,Marilyn Foster,1949-01-24,Female,Senile Angioma,Medicare
+91,Henry Gonzalez,1996-09-17,Male,Paronychia,Kaiser Permanente
+92,Jeanette Bryant,1982-03-08,Female,Chronic Paronychia,Aetna
+93,Alan Alexander,1965-06-21,Male,Trichostasis Spinulosa,Cigna
+94,Martha Russell,1943-12-19,Female,Dermatochalasis,Medicare
+95,Bobby Griffin,2004-11-30,Male,Pityriasis Alba,Anthem
+96,Rose Diaz,1977-04-11,Female,Granulomatous Rosacea,Blue Shield
+97,Victor Hayes,1989-08-04,Male,Wells Syndrome,UnitedHealthcare
+98,Julia Myers,1961-02-28,Female,Elastosis Perforans Serpiginosa,Humana
+99,Walter Ford,1956-07-15,Male,Kyrle Disease,Medicare
+100,Emma Hamilton,1998-10-10,Female,Acne Fulminans,Aetna

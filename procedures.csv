@@ -1,0 +1,36 @@
+id,procedure_name,category,primary_indication,typical_tool_device,recovery_time
+1,Shave Biopsy,Diagnostic,Keratosis / Squamous Cell (SCC),Dermablade or scalpel,1 to 2 weeks
+2,Punch Biopsy (Deep),Diagnostic,Bullous Pemphigoid / Sarcoidosis,4mm circular hollow blade,2 weeks
+3,Excisional Biopsy,Surgical,Melanoma / Keratoacanthoma,Scalpel and sutures,2 to 3 weeks
+4,Mohs Surgery,Surgical,High-risk BCC or SCC,Microscope & mapping,2 to 4 weeks
+5,Cryotherapy,Medical,Verruca Vulgaris / Actinic Keratosis,Liquid nitrogen spray,1 to 2 weeks
+6,Electrodesiccation,Medical,Seborrheic Keratoses / Skin tags,Hyfrecator (Electric),7 to 10 days
+7,Curettage,Medical,Molluscum Contagiosum / Warts,Sharp ring-shaped tool,2 weeks
+8,Incision & Drainage,Medical,Abscess / Hidradenitis Suppurativa,Scalpel & gauze packing,1 to 2 weeks
+9,Cyst Excision,Surgical,Sebaceous or Pilar Cysts,Scalpel & forceps,2 weeks
+10,Botulinum Toxin,Cosmetic,Hyperhidrosis / Dynamic wrinkles,Fine-gauge needle,Hours
+11,Dermal Fillers,Cosmetic,Volume loss / Menopause aging,Hyaluronic acid gel,2 to 5 days
+12,Chemical Peel (Deep),Cosmetic,Melasma / Severe sun damage,Phenol or TCA,2 to 3 weeks
+13,Laser Hair Removal,Cosmetic,Pseudofolliculitis Barbae,Diode or Alexandrite laser,1 to 2 days
+14,IPL (Photofacial),Cosmetic,Rosacea / Telangiectasia,Intense Pulsed Light,3 to 7 days
+15,Fractional CO2 Laser,Cosmetic,Acne Scars / Rhinophyma,Ablative CO2 laser,7 to 14 days
+16,Microneedling,Cosmetic,Collagen induction / Pityriasis Alba,Motorized needle pen,2 to 4 days
+17,Photodynamic Therapy,Medical,Actinic Cheilitis / AKs,Blue light + Levulan,1 week
+18,Sclerotherapy,Medical,Spider veins / Stasis Dermatitis,Sclerosant injection,1 to 2 weeks
+19,Narrowband UVB,Medical,Vitiligo / Psoriasis / Lichen Planus,311 nm Light booth,None
+20,Skin Grafting,Surgical,Large ulcers / Calciphylaxis,Dermatome/Scalpel,4 to 6 weeks
+21,Comedone Extraction,Medical,Acne Vulgaris / Favre-Racouchot,Comedone extractor,1 to 2 days
+22,Intralesional Steroid,Medical,Keloids / Alopecia Areata,Kenalog injection,None
+23,Wood’s Lamp Exam,Diagnostic,Tinea Corporis / Erythrasma,UV Light (Blacklight),Immediate
+24,Patch Testing,Diagnostic,Contact / Dysidrotic Eczema,Adhesive allergen strips,48 to 96 hours
+25,Skin Scraping (KOH),Diagnostic,Scabies / Ichthyosis Vulgaris,Scalpel / Microscope,Immediate
+26,Tattoo Removal,Cosmetic,Unwanted ink / Nevus of Ota,Q-Switched/Pico laser,1 to 2 weeks
+27,Direct Immunofluorescence,Diagnostic,Lupus (Malar Rash) / Pemphigoid,Biopsy + special media,N/A
+28,Tzanck Smear,Diagnostic,Herpes Zoster (Shingles),Glass slide & Giemsa,Immediate
+29,Surgical Debridement,Surgical,Pressure Ulcers / Impetigo (Severe),Scalpel & forceps,Varies
+30,TCA Cross,Medical,Cystic Acne (Ice pick scars),High-strength Acid,7 to 10 days
+31,Pulse Dye Laser (PDL),Medical,Nevus Flammeus / Angiomas,595 nm Laser,3 to 7 days
+32,Blepharoplasty,Surgical,Dermatochalasis,Scalpel or CO2 Laser,2 to 4 weeks
+33,Manual Extraction,Medical,Milia / Hidrocystoma,Lancet and extractor,2 to 3 days
+34,Hyaluronidase Inj.,Medical,Calcinosis (Kidney stones related),Enzyme injection,24 to 48 hours
+35,Dermoscopy,Diagnostic,Xanthelasma / Atypical Nevi,Polarized lens,Immediate
