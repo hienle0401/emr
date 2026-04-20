@@ -132,7 +132,7 @@ All 5 statements should show green checkmarks in the Action Output panel.
 
 ```java
 private static final String USER     = "root";      // ← your MySQL username
-private static final String PASSWORD = "password";  // ← your MySQL password
+private static final String PASSWORD = "root";  // ← your MySQL password
 ```
 
 3. Save the file
