@@ -1,0 +1,101 @@
+pid,condition,symptom_duration,severity,primary_treatment,,last_visit_date,followup_required
+1,Plaque Psoriasis,6 months,7,Topical Corticosteroids,19,11/14/2025,1
+2,Atopic Dermatitis,2 weeks,5,Emollients & Dupixent,19,1/5/2026,1
+3,Basal Cell Carcinoma,3 months,4,Mohs Surgery,4,9/22/2025,1
+4,Seborrheic Keratosis,1 year,2,Cryotherapy,6,2/1/2026,0
+5,Cystic Acne,4 years,9,Oral Isotretinoin,30,1/20/2026,1
+6,Contact Dermatitis,5 days,6,Patch Testing,24,2/7/2026,1
+7,Actinic Keratosis,8 months,3,Fluorouracil Cream,5,10/15/2025,1
+8,Melasma,2 years,4,Hydroquinone 4%,12,12/10/2025,0
+9,Molluscum Contagiosum,2 months,3,Cantharidin,7,1/15/2026,1
+10,Bullous Pemphigoid,1 month,8,Oral Prednisone,2,2/4/2026,1
+11,Rosacea,5 years,5,Metronidazole Gel,14,8/30/2025,0
+12,Vitiligo,10 years,2,Narrowband UVB,19,11/20/2025,1
+13,Hidradenitis Suppurativa,3 years,8,Adalimumab (Humira),8,1/12/2026,1
+14,Lichen Planus,4 months,6,Clobetasol Propionate,19,12/5/2025,1
+15,Tinea Corporis,1 week,4,Terbinafine Cream,23,2/6/2026,0
+16,Stasis Dermatitis,2 years,5,Compression Therapy,18,7/14/2025,1
+17,Dysidrotic Eczema,3 weeks,7,High-potency Topical Steroids,24,1/28/2026,0
+18,Urticaria (Hives),2 days,6,Cetirizine (Zyrtec), ,2/8/2026,0
+19,Keloid Scarring,5 years,3,Intralesional Kenalog,22,10/2/2025,1
+20,Perioral Dermatitis,2 months,4,Oral Doxycycline,,1/14/2026,1
+21,Squamous Cell Carcinoma,4 months,6,Surgical Excision,1,12/20/2025,1
+22,Pruritus,6 months,7,Pramoxine Lotion, ,1/30/2026,1
+23,Folliculitis,1 week,3,Mupirocin Ointment, ,2/2/2026,0
+24,Granuloma Annulare,9 months,2,Observation, ,9/11/2025,0
+25,Xerosis,3 months,4,Ammonium Lactate 12%, ,12/18/2025,0
+26,Pityriasis Rosea,2 weeks,3,Oral Antihistamines, ,1/25/2026,0
+27,Verruca Vulgaris,4 months,4,Salicylic Acid,5,1/10/2026,1
+28,Alopecia Areata,6 months,5,Minoxidil 5%,22,11/3/2025,1
+29,Ichthyosis Vulgaris,Lifetime,4,Alpha-hydroxy Acids,25,8/14/2025,0
+30,Impetigo,4 days,5,Cephalexin,29,2/5/2026,0
+31,Herpes Zoster (Shingles),1 week,9,Valacyclovir,28,2/1/2026,1
+32,Scabies,10 days,8,Permethrin 5%,25,1/29/2026,1
+33,Telangiectasia,3 years,2,Pulse Dye Laser,14,6/20/2025,0
+34,Dermatomyositis,5 months,7,Methotrexate, ,1/8/2026,1
+35,Scoliosis (Skin Check),N/A,1,Skin Cancer Screening,35,12/15/2025,0
+36,Chronic Fatigue (Rash),2 months,4,Biopsy, ,1/22/2026,1
+37,Kidney Stones (Calcinosis),1 month,6,Diltiazem Cream,34,11/30/2025,1
+38,Menopause (Hot Flashes),2 years,5,Estrogen Therapy,11,10/25/2025,0
+39,Acne Vulgaris,3 years,6,Benzoyl Peroxide,21,1/18/2026,1
+40,Bipolar (Drug Rash),3 days,7,Prednisone Taper, ,2/7/2026,1
+41,Fatty Liver (Acanthosis),1 year,3,Metformin, ,9/5/2025,0
+42,Osteoporosis (Thin Skin),5 years,2,Retinoid Cream, ,12/2/2025,0
+43,Tinnitus (Otitis Externa),1 week,5,Ciprofloxacin Drops, ,2/3/2026,0
+44,Lupus (Malar Rash),4 years,6,Hydroxychloroquine,27,1/11/2026,1
+45,Emphysema (Cyanosis),2 years,4,Oxygen Therapy, ,11/28/2025,0
+46,Anorexia (Lanugo),1 year,5,Nutritional Support, ,12/29/2025,1
+47,Prostatitis (Intertrigo),2 weeks,6,Nystatin Powder,29,1/4/2026,0
+48,Fibromyalgia (Pruritus),3 years,6,Gabapentin, ,10/10/2025,0
+49,Tonsillitis (Scarlet Fever),5 days,7,Penicillin, ,2/5/2026,0
+50,Vertigo (Herpes Zoster),1 week,8,Acyclovir,28,1/21/2026,1
+51,Malaria (Petechiae),4 days,9,Chloroquine, ,2/8/2026,1
+52,Graves' Disease (Pretibial Myxedema),6 months,5,Topical Steroids, ,11/15/2025,1
+53,Sinusitis (Angioedema),1 day,8,Epinephrine / ER, ,2/6/2026,0
+54,Parkinson's (Seborrheic Derm),1 year,4,Ketoconazole Shampoo,6,12/14/2025,0
+55,Cirrhosis (Jaundice),2 months,8,Liver Consultation, ,1/25/2026,1
+56,Alopecia,3 months,5,Scalp Injections,22,2/1/2026,1
+57,Mononucleosis (Exanthem),1 week,6,Supportive Care, ,1/19/2026,0
+58,Gallstones (Pruritus),2 weeks,7,Ursodiol, ,1/30/2026,1
+59,Otitis Media (Eczema),2 weeks,4,Hydrocortisone,19,2/3/2026,0
+60,Macular Degeneration (Xanthoma),3 years,3,Lipid Panel,35,9/28/2025,0
+61,Pleurisy (Dermatitis),1 month,5,Naproxen, ,1/5/2026,0
+62,Celiac Disease (Dermatitis Herpetiformis),4 years,7,Gluten-Free Diet / Dapsone,2,1/22/2026,1
+63,Hernia (Intertrigo),3 weeks,4,Antifungal Cream,29,2/7/2026,0
+64,Lyme Disease (Erythema Migrans),1 week,6,Doxycycline, ,1/15/2026,1
+65,Herniated Disc (Numbness),2 months,5,Physical Therapy, ,12/10/2025,0
+66,Raynaud's Disease,10 years,4,Calcium Channel Blockers, ,11/12/2025,0
+67,Alzheimer's (Pressure Ulcer),1 month,7,Wound Debridement,29,2/4/2026,1
+68,Sarcoidosis (Lupus Pernio),2 years,6,Methotrexate,2,1/8/2026,1
+69,Syringoma,5 years,2,Electrodessication, ,8/22/2025,0
+70,Xanthelasma,3 years,3,Surgical Removal,35,10/14/2025,0
+71,Neurofibromatosis Type 1,Lifetime,5,Monitoring,,1/2/2026,1
+72,Nevus of Ota,Lifetime,2,Laser Therapy,26,12/19/2025,0
+73,Favre-Racouchot Syndrome,10 years,3,Extraction / Tretinoin,21,7/28/2025,0
+74,Erythema Multiforme,1 week,8,Oral Antivirals, ,2/6/2026,1
+75,Chondrodermatitis Nodularis,6 months,6,Pressure Relief / Surgery, ,11/5/2025,1
+76,Trichotillomania,4 years,5,Cognitive Behavioral Therapy, ,1/14/2026,1
+77,Hidrocystoma,2 years,2,Simple Incision,33,9/17/2025,0
+78,Keratoacanthoma,1 month,7,Excisional Surgery,3,1/29/2026,1
+79,Lichen Sclerosus,1 year,6,Clobetasol, ,12/12/2025,1
+80,Pompholyx,3 weeks,7,Aluminum Acetate Soaks,24,2/1/2026,0
+81,Actinic Cheilitis,8 months,4,CO2 Laser,17,10/30/2025,1
+82,Nevus Flammeus,Lifetime,1,Observation,31,6/15/2025,0
+83,Cutaneous Horn,4 months,5,Shave Excision, ,1/7/2026,1
+84,Panniculitis,2 months,6,NSAIDs, ,1/16/2026,1
+85,Eruptive Xanthoma,2 weeks,7,Fibrates, ,2/4/2026,1
+86,Pseudofolliculitis Barbae,5 years,4,Laser Hair Removal,13,11/21/2025,0
+87,Calciphylaxis,1 month,10,Sodium Thiosulfate,20,2/8/2026,1
+88,Papular Urticaria,3 days,6,Bug Spray / Steroids, ,2/7/2026,0
+89,Majocchi’s Granuloma,1 month,5,Oral Griseofulvin, ,1/12/2026,1
+90,Senile Angioma,10 years,1,Reassurance,31,5/18/2025,0
+91,Paronychia,4 days,7,I&D / Antibiotics, ,2/6/2026,1
+92,Chronic Paronychia,3 months,4,Antifungal Lacquer, ,1/20/2026,0
+93,Trichostasis Spinulosa,2 years,2,Tretinoin 0.05%, ,9/12/2025,0
+94,Dermatochalasis,5 years,3,Blepharoplasty Ref,32,10/1/2025,0
+95,Pityriasis Alba,2 months,2,Moisturizer,16,1/15/2026,0
+96,Granulomatous Rosacea,6 months,6,Oral Minocycline,14,12/18/2025,1
+97,Wells Syndrome,2 weeks,8,Systemic Steroids, ,2/5/2026,1
+98,Elastosis Perforans Serpiginosa,1 year,4,Cryotherapy, ,11/30/2025,1
+99,Kyrle Disease,3 years,7,Keratolytic Agents, ,1/4/2026,1
+100,Acne Fulminans,1 week,10,Prednisone + Isotretinoin, ,2/8/2026,1
