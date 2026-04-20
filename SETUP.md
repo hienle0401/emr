@@ -119,7 +119,7 @@ All 5 statements should show green checkmarks in the Action Output panel.
 
 > **Because I did make some change to the database, please follow this instruction for a successful execuation**
  
-1. Navigate to the PatientHistory file I have in GitHub, copy all the data here. 
+1. Navigate to the **PatientHistory_directlyImportedThroughMySQLQuery.txt** file I have in GitHub, copy all the data here. 
 2. With these cells copied, go to your MySQL Local instance -> create a new query -> paste them here with
  **USE emr_db**
 
